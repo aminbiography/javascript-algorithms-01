@@ -577,6 +577,149 @@
 
 
 
+// *loop-to perform repeated tasks based on a condition is called loop-------
+
+
+// JavaScript supports different kinds of loops:
+// for - 
+// loops through a block of code a number of times.
+// [syntax-The for loop starts with a for statement followed by 
+// a set of parameters inside the parenthesis]
+// for/in - 
+// loops through the properties of an object.
+// for/of - 
+// loops through the values of an iterable object.
+// while - 
+// loops through a block of code while a specified condition is true.
+
+
+
+// *loop syntax-----------
+
+// for (var i = 0; i < 10; i++){
+//     console.log(i);
+// }
+
+// output-
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+
+
+// *array solveing by loop syntax-----------
+
+// var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
+
+// for (var i = 0; i < numbers.length; i++){
+// var element = numbers [i];
+// console.log(element);
+// }
+
+// output-
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+
+
+// var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
+
+// for (var i = 0; i < numbers.length; i++){
+// var element = numbers [i];
+// if (element == 5){
+//     console.log('salary is 5k')
+// }
+// }
+
+// output-
+// salary is 5k
+
+
+// var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
+
+// for (var i = 0; i < numbers.length; i++){
+// var element = numbers [i];
+// if (element == 5){
+//     console.log('salary is 5k')
+// }
+// console.log(element);
+// }
+
+
+// output-
+// 1
+// 2
+// 3
+// 4
+// salary is 5k
+// 5
+// 6
+// 7
+// 8
+// 9
+
+
+// var numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9,];
+
+// var temp = [];
+// for (var i = 0; i < numbers.length; i++){
+// var element = numbers [i];
+// if (element % 2 == 0){
+//     temp.push(element);
+// }
+// }
+// console.log(temp);
+
+// oputput-
+// [ 2, 4, 6, 8 ]
+
+
+// const friends = ['mahi', 'robin', 'ratul', 'mim'];
+
+// for (var i = 0; i < friends.length; i++){
+//     const element = friends[i];
+//     console.log(element);
+// }
+
+
+// output-
+// mahi
+// robin
+// ratul
+// mim
+
+
+// const friends = ['mahi', 'robin', 'ratul', 'mim'];
+
+// for (var i = 0; i < friends.length; i++){
+//     const element = friends[i];
+//     if (element == 'mahi'){
+//     console.log('she is good');
+// }
+// }
+
+// output-
+// she is good
+
+
+
+
+
+
+
+
+
 
 
 
