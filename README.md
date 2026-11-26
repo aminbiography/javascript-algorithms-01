@@ -10,19 +10,18 @@ A collection of beginner-friendly JavaScript algorithm examples for practicing p
 
 ## Download
 
-Download the JavaScript source files from the latest release.
+Download the JavaScript source files directly from the GitHub Release.
 
-**Latest Release:** [JavaScript Algorithms – v1.0.0](https://github.com/aminbiography/javascript-algorithms-01/releases/tag/v1)
+**Latest Release:** [Version 1.0.0](https://github.com/aminbiography/javascript-algorithms-01/releases/tag/v1)
 
-| File | Description | Download |
-|---|---|---|
-| `js-c-1.js` | JavaScript fundamentals, conditionals, arrays, and loops. | [Download](https://github.com/aminbiography/javascript-algorithms-01/blob/v1/js-c-1.js?raw=true) |
-| `jsp.js` | Array methods and JavaScript problem-solving exercises. | [Download](https://github.com/aminbiography/javascript-algorithms-01/blob/v1/jsp.js?raw=true) |
+| Description | Download |
+|---|---|
+| JavaScript Fundamentals | [Download](https://github.com/aminbiography/javascript-algorithms-01/releases/download/v1/js-c-1.js) |
+| JavaScript Algorithms and Practice | [Download](https://github.com/aminbiography/javascript-algorithms-01/releases/download/v1/jsp.js) |
 
-**Download All Files:**
+**Complete Source Code:** [Download ZIP](https://github.com/aminbiography/javascript-algorithms-01/archive/refs/tags/v1.zip)
 
-- [Download ZIP](https://github.com/aminbiography/javascript-algorithms-01/archive/refs/tags/v1.zip)
-- [View All Releases](https://github.com/aminbiography/javascript-algorithms-01/releases)
+[View All Releases](https://github.com/aminbiography/javascript-algorithms-01/releases)
 
 ---
 
