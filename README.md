@@ -6,6 +6,26 @@
 
 A collection of beginner-friendly JavaScript algorithm examples for practicing problem-solving, understanding programming logic, and strengthening core JavaScript skills.
 
+---
+
+## Download
+
+Download the JavaScript source files from the latest release.
+
+**Latest Release:** [JavaScript Algorithms – v1.0.0](https://github.com/aminbiography/javascript-algorithms-01/releases/tag/v1)
+
+| File | Description | Download |
+|---|---|---|
+| `js-c-1.js` | JavaScript fundamentals, conditionals, arrays, and loops. | [Download](https://github.com/aminbiography/javascript-algorithms-01/blob/v1/js-c-1.js?raw=true) |
+| `jsp.js` | Array methods and JavaScript problem-solving exercises. | [Download](https://github.com/aminbiography/javascript-algorithms-01/blob/v1/jsp.js?raw=true) |
+
+**Download All Files:**
+
+- [Download ZIP](https://github.com/aminbiography/javascript-algorithms-01/archive/refs/tags/v1.zip)
+- [View All Releases](https://github.com/aminbiography/javascript-algorithms-01/releases)
+
+---
+
 ## Introduction
 
 This repository contains practical JavaScript implementations of common programming algorithms and problem-solving exercises. It provides examples of mathematical operations, string manipulation, array processing, sorting, and searching techniques.
