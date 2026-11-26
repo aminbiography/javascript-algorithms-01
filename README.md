@@ -5,7 +5,7 @@
 # JavaScript Algorithms
 
 A collection of beginner-friendly JavaScript algorithm examples for practicing problem-solving, understanding programming logic, and strengthening core JavaScript skills.
-
+  
 ---
 
 ## Download
